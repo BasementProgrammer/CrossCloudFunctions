@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CrossCloudAPI.Azure": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7090",
+      "launchBrowser": false
+    }
+  }
+}
